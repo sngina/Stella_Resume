@@ -1,6 +1,36 @@
 body{
+  background-image: url("/image/Work\ From\ Home\ Career\ Bundle\ \(126-pages\).jpeg");
     width: 100%;
     color:black ;
     background-color:whitesmoke;
+
 }
- 
+#stella{
+  list-style: none;
+  
+  
+}
+nav{
+    height: 60px;
+    text-align:center;
+    margin-top:0px;
+    width: 100%;
+    
+}
+nav ul li{ 
+  display: inline;
+  padding: 8px; 
+  font-size: 30px;
+  margin-left: 10px;
+  
+
+}
+nav ul li a{
+  text-decoration:none;
+  scroll-behavior:smooth;
+  color: black;
+}
+#name{
+
+}
+
